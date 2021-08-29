@@ -1,2 +1,2 @@
-# data-science-blogging
-A collection of code used in my Data Science blogging.
+# Data Science Blogging
+This repository contains a series of Jupter Notebooks of blog posts I have written. 

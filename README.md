@@ -2,6 +2,10 @@
 This repository contains a series of Jupter Notebooks of blog posts I have written. 
 
 ## Published 
+**[Build Complex Time Series Regression Pipelines with sktime](https://towardsdatascience.com/build-complex-time-series-regression-pipelines-with-sktime-910bc25c96b6)** - *Towards Data Science*
+
+This tutorial discusses how you can convert a time series forecasting problem to a regression problem using sktime. I will also show you how to build a complex time series forecaster with the popular library, XGBoost. [Code](https://github.com/rtkilian/data-science-blogging/blob/main/sktime_regression_forecasting.ipynb).
+
 **[Anonymise Sensitive Data in a Pandas DataFrame Column with hashlib](https://towardsdatascience.com/anonymise-sensitive-data-in-a-pandas-dataframe-column-with-hashlib-8e7ef397d91f)** - *Towards Data Science*
 
 After completing this tutorial you should have a basic understanding of what a hash algorithm is. We see how to use hashlib to hash a single string and how this can be applied to a pandas DataFrame column to anonymise sensitive information. [Code](https://github.com/rtkilian/data-science-blogging/blob/main/hashlib_pandas.ipynb).
